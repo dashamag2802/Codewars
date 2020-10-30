@@ -1,1 +1,1 @@
-https://www.codewars.com/users/Dashamag
+https://www.codewars.com/users/Dashamag/badges/large
