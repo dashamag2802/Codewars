@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="073724a3-db45-42a4-9fc1-ea47bc5dfa84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/8 kyu/Miles per gallon to kilometers per liter.js" afterDir="false" />
-    </list>
+    <list default="true" id="073724a3-db45-42a4-9fc1-ea47bc5dfa84" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +45,7 @@
       <workItem from="1604087013906" duration="101000" />
       <workItem from="1604420786317" duration="847000" />
       <workItem from="1604424838826" duration="336000" />
-      <workItem from="1604450535958" duration="1921000" />
+      <workItem from="1604450535958" duration="2280000" />
     </task>
     <task id="LOCAL-00001" summary="update readme file">
       <created>1604421028835</created>
@@ -84,7 +82,28 @@
       <option name="project" value="LOCAL" />
       <updated>1604457389224</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add solution for Miles per gallon to kilometers per liter">
+      <created>1604457476263</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604457476263</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add solution for Find the Slope">
+      <created>1604457551618</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604457551618</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add solution for Grasshopper - Order of operations">
+      <created>1604457696000</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1604457696000</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,7 +116,10 @@
     <MESSAGE value="add solution for Capitalization and Mutability" />
     <MESSAGE value="add solution for Capitalization and Mutability update" />
     <MESSAGE value="add solution for Breaking chocolate problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="add solution for Breaking chocolate problem" />
+    <MESSAGE value="add solution for Miles per gallon to kilometers per liter" />
+    <MESSAGE value="add solution for Find the Slope" />
+    <MESSAGE value="add solution for Grasshopper - Order of operations" />
+    <option name="LAST_COMMIT_MESSAGE" value="add solution for Grasshopper - Order of operations" />
   </component>
   <component name="WindowStateProjectService">
     <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1604457549844">
