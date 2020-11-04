@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="073724a3-db45-42a4-9fc1-ea47bc5dfa84" name="Default Changelist" comment="" />
+    <list default="true" id="073724a3-db45-42a4-9fc1-ea47bc5dfa84" name="Default Changelist" comment="update readme file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,16 +43,35 @@
       <option name="presentableId" value="Default" />
       <updated>1604030371848</updated>
       <workItem from="1604030373025" duration="1282000" />
+      <workItem from="1604086229181" duration="759000" />
+      <workItem from="1604087013906" duration="101000" />
+      <workItem from="1604420786317" duration="847000" />
+      <workItem from="1604424838826" duration="336000" />
+      <workItem from="1604450535958" duration="1437000" />
     </task>
+    <task id="LOCAL-00001" summary="update readme file">
+      <created>1604421028835</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604421028835</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="update readme" />
+    <MESSAGE value="update readme file" />
+    <option name="LAST_COMMIT_MESSAGE" value="update readme file" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1604421028108">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="251" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1604421028108" />
     <state x="496" y="89" key="FileChooserDialogImpl" timestamp="1604032240800">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -52,9 +80,17 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="579" y="283" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1604031239645" />
-    <state x="261" y="79" key="Vcs.Push.Dialog.v2" timestamp="1604032341703">
+    <state x="147" y="65" key="MergeDialog" timestamp="1604086594411">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="261" y="79" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604032341703" />
+    <state x="147" y="65" key="MergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1604086594411" />
+    <state x="316" y="112" key="MultipleFileMergeDialog" timestamp="1604086594417">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="316" y="112" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1604086594417" />
+    <state x="261" y="79" key="Vcs.Push.Dialog.v2" timestamp="1604421047664">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="261" y="79" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604421047664" />
   </component>
 </project>
