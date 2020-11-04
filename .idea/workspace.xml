@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="073724a3-db45-42a4-9fc1-ea47bc5dfa84" name="Default Changelist" comment="update readme file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="073724a3-db45-42a4-9fc1-ea47bc5dfa84" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/8 kyu/Capitalization and Mutability.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
       <workItem from="1604087013906" duration="101000" />
       <workItem from="1604420786317" duration="847000" />
       <workItem from="1604424838826" duration="336000" />
-      <workItem from="1604450535958" duration="1437000" />
+      <workItem from="1604450535958" duration="1618000" />
     </task>
     <task id="LOCAL-00001" summary="update readme file">
       <created>1604421028835</created>
@@ -56,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604421028835</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add solution for Find smaller integer">
+      <created>1604457043632</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604457043632</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,7 +72,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update readme" />
     <MESSAGE value="update readme file" />
-    <option name="LAST_COMMIT_MESSAGE" value="update readme file" />
+    <MESSAGE value="add solution for Find smaller integer" />
+    <option name="LAST_COMMIT_MESSAGE" value="add solution for Find smaller integer" />
   </component>
   <component name="WindowStateProjectService">
     <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1604421028108">
