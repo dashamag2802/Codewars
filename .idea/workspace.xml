@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="073724a3-db45-42a4-9fc1-ea47bc5dfa84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7 kyu/Return the closest number multiple of 10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 kyu/Chuck Norris VII  True or False.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
       <workItem from="1604087013906" duration="101000" />
       <workItem from="1604420786317" duration="847000" />
       <workItem from="1604424838826" duration="336000" />
-      <workItem from="1604450535958" duration="3865000" />
+      <workItem from="1604450535958" duration="4165000" />
     </task>
     <task id="LOCAL-00001" summary="update readme file">
       <created>1604421028835</created>
@@ -224,17 +224,41 @@
       <option name="project" value="LOCAL" />
       <updated>1604459350105</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="add solution for Return the closest number multiple of 10">
+      <created>1604459416516</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1604459416516</updated>
+    </task>
+    <task id="LOCAL-00027" summary="add solution for Vowel Count">
+      <created>1604459485240</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1604459485240</updated>
+    </task>
+    <task id="LOCAL-00028" summary="add solution for Mumbling">
+      <created>1604459558810</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1604459558810</updated>
+    </task>
+    <task id="LOCAL-00029" summary="add solution for Get the Middle Character">
+      <created>1604459644307</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1604459644307</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update readme file" />
-    <MESSAGE value="add solution for Find smaller integer" />
-    <MESSAGE value="add solution for Capitalization and Mutability" />
-    <MESSAGE value="add solution for Capitalization and Mutability update" />
     <MESSAGE value="add solution for Breaking chocolate problem" />
     <MESSAGE value="add solution for Miles per gallon to kilometers per liter" />
     <MESSAGE value="add solution for Find the Slope" />
@@ -256,7 +280,11 @@
     <MESSAGE value="add solution for Sum without highest and lowest number" />
     <MESSAGE value="add solution for Area of a Square" />
     <MESSAGE value="add solution for How many times should I go" />
-    <option name="LAST_COMMIT_MESSAGE" value="add solution for How many times should I go" />
+    <MESSAGE value="add solution for Return the closest number multiple of 10" />
+    <MESSAGE value="add solution for Vowel Count" />
+    <MESSAGE value="add solution for Mumbling" />
+    <MESSAGE value="add solution for Get the Middle Character" />
+    <option name="LAST_COMMIT_MESSAGE" value="add solution for Get the Middle Character" />
   </component>
   <component name="WindowStateProjectService">
     <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1604459484052">
