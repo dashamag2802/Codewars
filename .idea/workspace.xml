@@ -45,7 +45,7 @@
       <workItem from="1604087013906" duration="101000" />
       <workItem from="1604420786317" duration="847000" />
       <workItem from="1604424838826" duration="336000" />
-      <workItem from="1604450535958" duration="2280000" />
+      <workItem from="1604450535958" duration="2594000" />
     </task>
     <task id="LOCAL-00001" summary="update readme file">
       <created>1604421028835</created>
@@ -103,7 +103,28 @@
       <option name="project" value="LOCAL" />
       <updated>1604457696000</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add solution for I love you, a little , a lot, passionately ... not at all">
+      <created>1604457875842</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1604457875842</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add solution for Simple Fun 1 Seats in Theater">
+      <created>1604458013603</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1604458013603</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add solution for Area of an arrow">
+      <created>1604458087171</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1604458087171</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,7 +140,10 @@
     <MESSAGE value="add solution for Miles per gallon to kilometers per liter" />
     <MESSAGE value="add solution for Find the Slope" />
     <MESSAGE value="add solution for Grasshopper - Order of operations" />
-    <option name="LAST_COMMIT_MESSAGE" value="add solution for Grasshopper - Order of operations" />
+    <MESSAGE value="add solution for I love you, a little , a lot, passionately ... not at all" />
+    <MESSAGE value="add solution for Simple Fun 1 Seats in Theater" />
+    <MESSAGE value="add solution for Area of an arrow" />
+    <option name="LAST_COMMIT_MESSAGE" value="add solution for Area of an arrow" />
   </component>
   <component name="WindowStateProjectService">
     <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1604457874010">
