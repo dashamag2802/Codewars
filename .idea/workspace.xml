@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="073724a3-db45-42a4-9fc1-ea47bc5dfa84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/8 kyu/Abbreviate a Two Word Name.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 kyu/Fake Binary.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
       <workItem from="1604087013906" duration="101000" />
       <workItem from="1604420786317" duration="847000" />
       <workItem from="1604424838826" duration="336000" />
-      <workItem from="1604450535958" duration="2941000" />
+      <workItem from="1604450535958" duration="3250000" />
     </task>
     <task id="LOCAL-00001" summary="update readme file">
       <created>1604421028835</created>
@@ -147,7 +147,35 @@
       <option name="project" value="LOCAL" />
       <updated>1604458415570</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="add solution for Abbreviate a Two Word Name">
+      <created>1604458510483</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1604458510483</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add solution for A Needle in the Haystack">
+      <created>1604458601575</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1604458601575</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add solution for Beginner - Lost Without a Map">
+      <created>1604458672594</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1604458672594</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add solution for Invert values">
+      <created>1604458741379</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1604458741379</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,7 +197,11 @@
     <MESSAGE value="add solution for For Twins 2 Math operations" />
     <MESSAGE value="add solution for Sum of angles" />
     <MESSAGE value="add solution for Century From Year" />
-    <option name="LAST_COMMIT_MESSAGE" value="add solution for Century From Year" />
+    <MESSAGE value="add solution for Abbreviate a Two Word Name" />
+    <MESSAGE value="add solution for A Needle in the Haystack" />
+    <MESSAGE value="add solution for Beginner - Lost Without a Map" />
+    <MESSAGE value="add solution for Invert values" />
+    <option name="LAST_COMMIT_MESSAGE" value="add solution for Invert values" />
   </component>
   <component name="WindowStateProjectService">
     <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1604458508601">
