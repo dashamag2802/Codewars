@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="073724a3-db45-42a4-9fc1-ea47bc5dfa84" name="Default Changelist" comment="" />
+    <list default="true" id="073724a3-db45-42a4-9fc1-ea47bc5dfa84" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/8 kyu/Abbreviate a Two Word Name.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +47,7 @@
       <workItem from="1604087013906" duration="101000" />
       <workItem from="1604420786317" duration="847000" />
       <workItem from="1604424838826" duration="336000" />
-      <workItem from="1604450535958" duration="2594000" />
+      <workItem from="1604450535958" duration="2941000" />
     </task>
     <task id="LOCAL-00001" summary="update readme file">
       <created>1604421028835</created>
@@ -124,7 +126,28 @@
       <option name="project" value="LOCAL" />
       <updated>1604458087171</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add solution for For Twins 2 Math operations">
+      <created>1604458193390</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1604458193390</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add solution for Sum of angles">
+      <created>1604458273774</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1604458273774</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add solution for Century From Year">
+      <created>1604458415570</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1604458415570</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,7 +166,10 @@
     <MESSAGE value="add solution for I love you, a little , a lot, passionately ... not at all" />
     <MESSAGE value="add solution for Simple Fun 1 Seats in Theater" />
     <MESSAGE value="add solution for Area of an arrow" />
-    <option name="LAST_COMMIT_MESSAGE" value="add solution for Area of an arrow" />
+    <MESSAGE value="add solution for For Twins 2 Math operations" />
+    <MESSAGE value="add solution for Sum of angles" />
+    <MESSAGE value="add solution for Century From Year" />
+    <option name="LAST_COMMIT_MESSAGE" value="add solution for Century From Year" />
   </component>
   <component name="WindowStateProjectService">
     <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1604458272181">
