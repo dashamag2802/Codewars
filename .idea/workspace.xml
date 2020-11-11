@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="073724a3-db45-42a4-9fc1-ea47bc5dfa84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/8 kyu/Holiday VI - Shark Pontoon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu/Triangular Treasure.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
       <workItem from="1604420786317" duration="847000" />
       <workItem from="1604424838826" duration="336000" />
       <workItem from="1604450535958" duration="4473000" />
-      <workItem from="1605056934022" duration="928000" />
+      <workItem from="1605056934022" duration="1250000" />
     </task>
     <task id="LOCAL-00001" summary="update readme file">
       <created>1604421028835</created>
@@ -309,17 +309,41 @@
       <option name="project" value="LOCAL" />
       <updated>1605057813925</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Added solution for Holiday VI - Shark Pontoon">
+      <created>1605057889628</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1605057889628</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Added solution for Is this a triangle?">
+      <created>1605057950466</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1605057950466</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Added solution for Calculate Two People's Individual Ages">
+      <created>1605058027481</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1605058027481</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Added solution for Days in the year">
+      <created>1605058112526</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1605058112526</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add solution for Sum of angles" />
-    <MESSAGE value="add solution for Century From Year" />
-    <MESSAGE value="add solution for Abbreviate a Two Word Name" />
-    <MESSAGE value="add solution for A Needle in the Haystack" />
     <MESSAGE value="add solution for Beginner - Lost Without a Map" />
     <MESSAGE value="add solution for Invert values" />
     <MESSAGE value="add solution for Fake Binary" />
@@ -341,7 +365,11 @@
     <MESSAGE value="Added solution for What's the real floor?" />
     <MESSAGE value="Added solution for Calculate BMI" />
     <MESSAGE value="Added solution for Find the sum of the roots of a quadratic equation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Find the sum of the roots of a quadratic equation" />
+    <MESSAGE value="Added solution for Holiday VI - Shark Pontoon" />
+    <MESSAGE value="Added solution for Is this a triangle?" />
+    <MESSAGE value="Added solution for Calculate Two People's Individual Ages" />
+    <MESSAGE value="Added solution for Days in the year" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Days in the year" />
   </component>
   <component name="WindowStateProjectService">
     <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1605058026946">
