@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="073724a3-db45-42a4-9fc1-ea47bc5dfa84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/8 kyu/Draw stairs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu/ATM.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,35 +53,7 @@
       <workItem from="1604420786317" duration="847000" />
       <workItem from="1604424838826" duration="336000" />
       <workItem from="1604450535958" duration="4473000" />
-      <workItem from="1605056934022" duration="2543000" />
-    </task>
-    <task id="LOCAL-00006" summary="add solution for Miles per gallon to kilometers per liter">
-      <created>1604457476263</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1604457476263</updated>
-    </task>
-    <task id="LOCAL-00007" summary="add solution for Find the Slope">
-      <created>1604457551618</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1604457551618</updated>
-    </task>
-    <task id="LOCAL-00008" summary="add solution for Grasshopper - Order of operations">
-      <created>1604457696000</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1604457696000</updated>
-    </task>
-    <task id="LOCAL-00009" summary="add solution for I love you, a little , a lot, passionately ... not at all">
-      <created>1604457875842</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1604457875842</updated>
+      <workItem from="1605056934022" duration="2850000" />
     </task>
     <task id="LOCAL-00010" summary="add solution for Simple Fun 1 Seats in Theater">
       <created>1604458013603</created>
@@ -399,17 +370,41 @@
       <option name="project" value="LOCAL" />
       <updated>1605059244171</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Added solution for Draw stairs">
+      <created>1605059513033</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1605059513033</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Added solution for Discover The Original Price">
+      <created>1605059607595</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1605059607595</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Added solution for Round up to the next multiple of 5">
+      <created>1605059669403</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1605059669404</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Added solution for Halving Sum">
+      <created>1605059730827</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1605059730827</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add solution for Chuck Norris VII True or False" />
-    <MESSAGE value="add solution for Training JS 6 Basic data types Boolean and conditional statements if else" />
-    <MESSAGE value="add solution for lucky number" />
-    <MESSAGE value="Added solution for Determine offspring sex based on genes XX and XY chromosomes" />
     <MESSAGE value="Added solution for Fix your code before the garden dies!" />
     <MESSAGE value="Added solution for What's the real floor?" />
     <MESSAGE value="Added solution for Calculate BMI" />
@@ -431,13 +426,17 @@
     <MESSAGE value="Added solution for Count the divisors of a number" />
     <MESSAGE value="Added solution for Sum of the first nth term of Series" />
     <MESSAGE value="Added solution for Beginner Series #3 Sum of Numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Beginner Series #3 Sum of Numbers" />
+    <MESSAGE value="Added solution for Draw stairs" />
+    <MESSAGE value="Added solution for Discover The Original Price" />
+    <MESSAGE value="Added solution for Round up to the next multiple of 5" />
+    <MESSAGE value="Added solution for Halving Sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Halving Sum" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1605059243655">
+    <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1605059730254">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="251" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605059243655" />
+    <state x="251" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605059730254" />
     <state x="496" y="89" key="FileChooserDialogImpl" timestamp="1604032240800">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -454,9 +453,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="316" y="112" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1604086594417" />
-    <state x="261" y="79" key="Vcs.Push.Dialog.v2" timestamp="1605059245239">
+    <state x="261" y="79" key="Vcs.Push.Dialog.v2" timestamp="1605059732233">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="261" y="79" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605059245239" />
+    <state x="261" y="79" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605059732233" />
   </component>
 </project>
