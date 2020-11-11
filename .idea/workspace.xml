@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="073724a3-db45-42a4-9fc1-ea47bc5dfa84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7 kyu/Factorial.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu/Sum of the first nth term of Series.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,35 +53,7 @@
       <workItem from="1604420786317" duration="847000" />
       <workItem from="1604424838826" duration="336000" />
       <workItem from="1604450535958" duration="4473000" />
-      <workItem from="1605056934022" duration="1930000" />
-    </task>
-    <task id="LOCAL-00001" summary="update readme file">
-      <created>1604421028835</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1604421028835</updated>
-    </task>
-    <task id="LOCAL-00002" summary="add solution for Find smaller integer">
-      <created>1604457043632</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1604457043632</updated>
-    </task>
-    <task id="LOCAL-00003" summary="add solution for Capitalization and Mutability">
-      <created>1604457205050</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1604457205050</updated>
-    </task>
-    <task id="LOCAL-00004" summary="add solution for Capitalization and Mutability update">
-      <created>1604457297719</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1604457297719</updated>
+      <workItem from="1605056934022" duration="2240000" />
     </task>
     <task id="LOCAL-00005" summary="add solution for Breaking chocolate problem">
       <created>1604457389224</created>
@@ -392,18 +363,48 @@
       <option name="project" value="LOCAL" />
       <updated>1605058806511</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Added solution for Factorial">
+      <created>1605058891837</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1605058891837</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Added solution for Powers of 3">
+      <created>1605058961482</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1605058961482</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Added solution for Very Even Numbers">
+      <created>1605059042980</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1605059042980</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Added solution for Count the divisors of a number">
+      <created>1605059095461</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1605059095461</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Added solution for Sum of the first nth term of Series">
+      <created>1605059177951</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1605059177967</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add solution for Area of a Square" />
-    <MESSAGE value="add solution for How many times should I go" />
-    <MESSAGE value="add solution for Return the closest number multiple of 10" />
-    <MESSAGE value="add solution for Vowel Count" />
-    <MESSAGE value="add solution for Mumbling" />
     <MESSAGE value="add solution for Get the Middle Character" />
     <MESSAGE value="add solution for Chuck Norris VII True or False" />
     <MESSAGE value="add solution for Training JS 6 Basic data types Boolean and conditional statements if else" />
@@ -424,7 +425,12 @@
     <MESSAGE value="Added solution for Going to the cinema" />
     <MESSAGE value="Added solution for Power of two" />
     <MESSAGE value="Added solution for Difference Of Squares" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Difference Of Squares" />
+    <MESSAGE value="Added solution for Factorial" />
+    <MESSAGE value="Added solution for Powers of 3" />
+    <MESSAGE value="Added solution for Very Even Numbers" />
+    <MESSAGE value="Added solution for Count the divisors of a number" />
+    <MESSAGE value="Added solution for Sum of the first nth term of Series" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Sum of the first nth term of Series" />
   </component>
   <component name="WindowStateProjectService">
     <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1605058960954">
