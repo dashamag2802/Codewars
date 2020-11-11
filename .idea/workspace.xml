@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="073724a3-db45-42a4-9fc1-ea47bc5dfa84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/8 kyu/Chuck Norris VII  True or False.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,8 @@
       <workItem from="1604087013906" duration="101000" />
       <workItem from="1604420786317" duration="847000" />
       <workItem from="1604424838826" duration="336000" />
-      <workItem from="1604450535958" duration="4165000" />
+      <workItem from="1604450535958" duration="4473000" />
+      <workItem from="1605056934022" duration="325000" />
     </task>
     <task id="LOCAL-00001" summary="update readme file">
       <created>1604421028835</created>
@@ -252,16 +253,34 @@
       <option name="project" value="LOCAL" />
       <updated>1604459644307</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="add solution for Chuck Norris VII True or False">
+      <created>1604459746737</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1604459746737</updated>
+    </task>
+    <task id="LOCAL-00031" summary="add solution for Training JS 6 Basic data types Boolean and conditional statements if else">
+      <created>1604459880239</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1604459880239</updated>
+    </task>
+    <task id="LOCAL-00032" summary="add solution for lucky number">
+      <created>1604459967364</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1604459967364</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add solution for Breaking chocolate problem" />
-    <MESSAGE value="add solution for Miles per gallon to kilometers per liter" />
-    <MESSAGE value="add solution for Find the Slope" />
     <MESSAGE value="add solution for Grasshopper - Order of operations" />
     <MESSAGE value="add solution for I love you, a little , a lot, passionately ... not at all" />
     <MESSAGE value="add solution for Simple Fun 1 Seats in Theater" />
@@ -284,13 +303,16 @@
     <MESSAGE value="add solution for Vowel Count" />
     <MESSAGE value="add solution for Mumbling" />
     <MESSAGE value="add solution for Get the Middle Character" />
-    <option name="LAST_COMMIT_MESSAGE" value="add solution for Get the Middle Character" />
+    <MESSAGE value="add solution for Chuck Norris VII True or False" />
+    <MESSAGE value="add solution for Training JS 6 Basic data types Boolean and conditional statements if else" />
+    <MESSAGE value="add solution for lucky number" />
+    <option name="LAST_COMMIT_MESSAGE" value="add solution for lucky number" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1604459745326">
+    <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1604459965987">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="251" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1604459745326" />
+    <state x="251" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1604459965987" />
     <state x="496" y="89" key="FileChooserDialogImpl" timestamp="1604032240800">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -307,9 +329,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="316" y="112" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1604086594417" />
-    <state x="261" y="79" key="Vcs.Push.Dialog.v2" timestamp="1604459748130">
+    <state x="261" y="79" key="Vcs.Push.Dialog.v2" timestamp="1604459968716">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="261" y="79" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604459748130" />
+    <state x="261" y="79" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604459968716" />
   </component>
 </project>
