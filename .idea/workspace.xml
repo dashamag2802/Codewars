@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="073724a3-db45-42a4-9fc1-ea47bc5dfa84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7 kyu/Triangular Treasure.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu/The wheat or rice and chessboard problem.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
       <workItem from="1604420786317" duration="847000" />
       <workItem from="1604424838826" duration="336000" />
       <workItem from="1604450535958" duration="4473000" />
-      <workItem from="1605056934022" duration="1250000" />
+      <workItem from="1605056934022" duration="1624000" />
     </task>
     <task id="LOCAL-00001" summary="update readme file">
       <created>1604421028835</created>
@@ -337,16 +337,34 @@
       <option name="project" value="LOCAL" />
       <updated>1605058112526</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Added solution for Triangular Treasure">
+      <created>1605058231005</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1605058231005</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Added solution for Be Concise I - The Ternary Operator">
+      <created>1605058340331</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1605058340331</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Added solution for 101 Dalmatians - squash the bugs, not the dogs!">
+      <created>1605058406872</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1605058406872</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add solution for Beginner - Lost Without a Map" />
-    <MESSAGE value="add solution for Invert values" />
-    <MESSAGE value="add solution for Fake Binary" />
     <MESSAGE value="add solution for Remove String Spaces" />
     <MESSAGE value="add solution for Jenny's secret message" />
     <MESSAGE value="add solution for DNA to RNA Conversion" />
@@ -369,7 +387,10 @@
     <MESSAGE value="Added solution for Is this a triangle?" />
     <MESSAGE value="Added solution for Calculate Two People's Individual Ages" />
     <MESSAGE value="Added solution for Days in the year" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Days in the year" />
+    <MESSAGE value="Added solution for Triangular Treasure" />
+    <MESSAGE value="Added solution for Be Concise I - The Ternary Operator" />
+    <MESSAGE value="Added solution for 101 Dalmatians - squash the bugs, not the dogs!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solution for 101 Dalmatians - squash the bugs, not the dogs!" />
   </component>
   <component name="WindowStateProjectService">
     <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1605058339784">
