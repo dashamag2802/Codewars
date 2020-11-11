@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="073724a3-db45-42a4-9fc1-ea47bc5dfa84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7 kyu/The wheat or rice and chessboard problem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu/Factorial.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +35,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dasha\OneDrive\Documents\IT QA7\Codewars-Solution\7 kyu" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,7 +54,7 @@
       <workItem from="1604420786317" duration="847000" />
       <workItem from="1604424838826" duration="336000" />
       <workItem from="1604450535958" duration="4473000" />
-      <workItem from="1605056934022" duration="1624000" />
+      <workItem from="1605056934022" duration="1930000" />
     </task>
     <task id="LOCAL-00001" summary="update readme file">
       <created>1604421028835</created>
@@ -358,17 +364,41 @@
       <option name="project" value="LOCAL" />
       <updated>1605058406872</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Added solution for The wheat or rice and chessboard problem">
+      <created>1605058586787</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1605058586787</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Added solution for Going to the cinema">
+      <created>1605058682159</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1605058682159</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Added solution for Power of two">
+      <created>1605058747662</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1605058747662</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Added solution for Difference Of Squares">
+      <created>1605058806511</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1605058806511</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add solution for Remove String Spaces" />
-    <MESSAGE value="add solution for Jenny's secret message" />
-    <MESSAGE value="add solution for DNA to RNA Conversion" />
-    <MESSAGE value="add solution for Sum without highest and lowest number" />
     <MESSAGE value="add solution for Area of a Square" />
     <MESSAGE value="add solution for How many times should I go" />
     <MESSAGE value="add solution for Return the closest number multiple of 10" />
@@ -390,7 +420,11 @@
     <MESSAGE value="Added solution for Triangular Treasure" />
     <MESSAGE value="Added solution for Be Concise I - The Ternary Operator" />
     <MESSAGE value="Added solution for 101 Dalmatians - squash the bugs, not the dogs!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added solution for 101 Dalmatians - squash the bugs, not the dogs!" />
+    <MESSAGE value="Added solution for The wheat or rice and chessboard problem" />
+    <MESSAGE value="Added solution for Going to the cinema" />
+    <MESSAGE value="Added solution for Power of two" />
+    <MESSAGE value="Added solution for Difference Of Squares" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Difference Of Squares" />
   </component>
   <component name="WindowStateProjectService">
     <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1605058681567">
