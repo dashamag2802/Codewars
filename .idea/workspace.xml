@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="073724a3-db45-42a4-9fc1-ea47bc5dfa84" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 kyu/Fix your code before the garden dies!.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
       <workItem from="1604420786317" duration="847000" />
       <workItem from="1604424838826" duration="336000" />
       <workItem from="1604450535958" duration="4473000" />
-      <workItem from="1605056934022" duration="325000" />
+      <workItem from="1605056934022" duration="625000" />
     </task>
     <task id="LOCAL-00001" summary="update readme file">
       <created>1604421028835</created>
@@ -274,15 +274,27 @@
       <option name="project" value="LOCAL" />
       <updated>1604459967364</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Added solution for Determine offspring sex based on genes XX and XY chromosomes">
+      <created>1605057481600</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1605057481600</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Added solution for Fix your code before the garden dies!">
+      <created>1605057558347</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1605057558347</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add solution for Grasshopper - Order of operations" />
-    <MESSAGE value="add solution for I love you, a little , a lot, passionately ... not at all" />
     <MESSAGE value="add solution for Simple Fun 1 Seats in Theater" />
     <MESSAGE value="add solution for Area of an arrow" />
     <MESSAGE value="add solution for For Twins 2 Math operations" />
@@ -306,7 +318,9 @@
     <MESSAGE value="add solution for Chuck Norris VII True or False" />
     <MESSAGE value="add solution for Training JS 6 Basic data types Boolean and conditional statements if else" />
     <MESSAGE value="add solution for lucky number" />
-    <option name="LAST_COMMIT_MESSAGE" value="add solution for lucky number" />
+    <MESSAGE value="Added solution for Determine offspring sex based on genes XX and XY chromosomes" />
+    <MESSAGE value="Added solution for Fix your code before the garden dies!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Fix your code before the garden dies!" />
   </component>
   <component name="WindowStateProjectService">
     <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1604459965987">
