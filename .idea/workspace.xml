@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="073724a3-db45-42a4-9fc1-ea47bc5dfa84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7 kyu/ATM.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,42 +53,7 @@
       <workItem from="1604420786317" duration="847000" />
       <workItem from="1604424838826" duration="336000" />
       <workItem from="1604450535958" duration="4473000" />
-      <workItem from="1605056934022" duration="2850000" />
-    </task>
-    <task id="LOCAL-00010" summary="add solution for Simple Fun 1 Seats in Theater">
-      <created>1604458013603</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1604458013603</updated>
-    </task>
-    <task id="LOCAL-00011" summary="add solution for Area of an arrow">
-      <created>1604458087171</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1604458087171</updated>
-    </task>
-    <task id="LOCAL-00012" summary="add solution for For Twins 2 Math operations">
-      <created>1604458193390</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1604458193390</updated>
-    </task>
-    <task id="LOCAL-00013" summary="add solution for Sum of angles">
-      <created>1604458273774</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1604458273774</updated>
-    </task>
-    <task id="LOCAL-00014" summary="add solution for Century From Year">
-      <created>1604458415570</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1604458415570</updated>
+      <workItem from="1605056934022" duration="3346000" />
     </task>
     <task id="LOCAL-00015" summary="add solution for Abbreviate a Two Word Name">
       <created>1604458510483</created>
@@ -398,18 +363,48 @@
       <option name="project" value="LOCAL" />
       <updated>1605059730827</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Added solution for ATM">
+      <created>1605059821626</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1605059821626</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Added solution for isReallyNaN">
+      <created>1605059877580</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1605059877580</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Added solution for Filter the number">
+      <created>1605059932220</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1605059932220</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Added solution for Bumps in the Road">
+      <created>1605059991535</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1605059991535</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Added solution for Is integer safe to use">
+      <created>1605060062967</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1605060062967</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added solution for Fix your code before the garden dies!" />
-    <MESSAGE value="Added solution for What's the real floor?" />
-    <MESSAGE value="Added solution for Calculate BMI" />
-    <MESSAGE value="Added solution for Find the sum of the roots of a quadratic equation" />
-    <MESSAGE value="Added solution for Holiday VI - Shark Pontoon" />
     <MESSAGE value="Added solution for Is this a triangle?" />
     <MESSAGE value="Added solution for Calculate Two People's Individual Ages" />
     <MESSAGE value="Added solution for Days in the year" />
@@ -430,13 +425,18 @@
     <MESSAGE value="Added solution for Discover The Original Price" />
     <MESSAGE value="Added solution for Round up to the next multiple of 5" />
     <MESSAGE value="Added solution for Halving Sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Halving Sum" />
+    <MESSAGE value="Added solution for ATM" />
+    <MESSAGE value="Added solution for isReallyNaN" />
+    <MESSAGE value="Added solution for Filter the number" />
+    <MESSAGE value="Added solution for Bumps in the Road" />
+    <MESSAGE value="Added solution for Is integer safe to use" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Is integer safe to use" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1605059730254">
+    <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1605060062423">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="251" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605059730254" />
+    <state x="251" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605060062423" />
     <state x="496" y="89" key="FileChooserDialogImpl" timestamp="1604032240800">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -453,9 +453,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="316" y="112" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1604086594417" />
-    <state x="261" y="79" key="Vcs.Push.Dialog.v2" timestamp="1605059732233">
+    <state x="261" y="79" key="Vcs.Push.Dialog.v2" timestamp="1605060064273">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="261" y="79" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605059732233" />
+    <state x="261" y="79" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605060064273" />
+    <state x="536" y="304" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605059814235">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="536" y="304" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1605059814235" />
   </component>
 </project>
