@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="073724a3-db45-42a4-9fc1-ea47bc5dfa84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7 kyu/Is every value in the array an array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6 kyu/Backspaces in string.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,42 +54,7 @@
       <workItem from="1604424838826" duration="336000" />
       <workItem from="1604450535958" duration="4473000" />
       <workItem from="1605056934022" duration="3346000" />
-      <workItem from="1605233873028" duration="1626000" />
-    </task>
-    <task id="LOCAL-00032" summary="add solution for lucky number">
-      <created>1604459967364</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1604459967364</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Added solution for Determine offspring sex based on genes XX and XY chromosomes">
-      <created>1605057481600</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1605057481600</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Added solution for Fix your code before the garden dies!">
-      <created>1605057558347</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1605057558347</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Added solution for What's the real floor?">
-      <created>1605057652160</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1605057652160</updated>
-    </task>
-    <task id="LOCAL-00036" summary="Added solution for Calculate BMI">
-      <created>1605057730945</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1605057730945</updated>
+      <workItem from="1605233873028" duration="1937000" />
     </task>
     <task id="LOCAL-00037" summary="Added solution for Find the sum of the roots of a quadratic equation">
       <created>1605057813925</created>
@@ -399,18 +364,48 @@
       <option name="project" value="LOCAL" />
       <updated>1605235373102</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Added solution for Is every value in the array an array">
+      <created>1605235532009</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1605235532009</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Added solution for Rock Off!">
+      <created>1605235594615</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1605235594615</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Added solution for Sum of Odd Cubed Numbers">
+      <created>1605235665447</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1605235665447</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Added solution for Number of People in the Bus">
+      <created>1605235721031</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1605235721031</updated>
+    </task>
+    <task id="LOCAL-00085" summary="Added solution for Remove the minimum">
+      <created>1605235780438</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1605235780438</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added solution for Discover The Original Price" />
-    <MESSAGE value="Added solution for Round up to the next multiple of 5" />
-    <MESSAGE value="Added solution for Halving Sum" />
-    <MESSAGE value="Added solution for ATM" />
-    <MESSAGE value="Added solution for isReallyNaN" />
     <MESSAGE value="Added solution for Filter the number" />
     <MESSAGE value="Added solution for Bumps in the Road" />
     <MESSAGE value="Added solution for Is integer safe to use" />
@@ -431,13 +426,18 @@
     <MESSAGE value="Added solution for Squares sequence" />
     <MESSAGE value="Added solution for Show multiples of 2 numbers within a range" />
     <MESSAGE value="Added solution for What is type of variable" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added solution for What is type of variable" />
+    <MESSAGE value="Added solution for Is every value in the array an array" />
+    <MESSAGE value="Added solution for Rock Off!" />
+    <MESSAGE value="Added solution for Sum of Odd Cubed Numbers" />
+    <MESSAGE value="Added solution for Number of People in the Bus" />
+    <MESSAGE value="Added solution for Remove the minimum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Remove the minimum" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1605235372565">
+    <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1605235779871">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="251" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605235372565" />
+    <state x="251" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605235779871" />
     <state x="496" y="89" key="FileChooserDialogImpl" timestamp="1604032240800">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -454,10 +454,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="316" y="112" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1604086594417" />
-    <state x="261" y="79" key="Vcs.Push.Dialog.v2" timestamp="1605235374202">
+    <state x="261" y="79" key="Vcs.Push.Dialog.v2" timestamp="1605235782006">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="261" y="79" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605235374202" />
+    <state x="261" y="79" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605235782006" />
     <state x="536" y="304" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605059814235">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
