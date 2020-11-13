@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="073724a3-db45-42a4-9fc1-ea47bc5dfa84" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu/You're a square!.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,20 +54,7 @@
       <workItem from="1604424838826" duration="336000" />
       <workItem from="1604450535958" duration="4473000" />
       <workItem from="1605056934022" duration="3346000" />
-    </task>
-    <task id="LOCAL-00015" summary="add solution for Abbreviate a Two Word Name">
-      <created>1604458510483</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1604458510483</updated>
-    </task>
-    <task id="LOCAL-00016" summary="add solution for A Needle in the Haystack">
-      <created>1604458601575</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1604458601575</updated>
+      <workItem from="1605233873028" duration="300000" />
     </task>
     <task id="LOCAL-00017" summary="add solution for Beginner - Lost Without a Map">
       <created>1604458672594</created>
@@ -398,15 +385,27 @@
       <option name="project" value="LOCAL" />
       <updated>1605060062967</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Added solution for Square Every Digit">
+      <created>1605234061627</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1605234061627</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Added solution for Find the next perfect square">
+      <created>1605234134504</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1605234134504</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added solution for Is this a triangle?" />
-    <MESSAGE value="Added solution for Calculate Two People's Individual Ages" />
     <MESSAGE value="Added solution for Days in the year" />
     <MESSAGE value="Added solution for Triangular Treasure" />
     <MESSAGE value="Added solution for Be Concise I - The Ternary Operator" />
@@ -430,7 +429,9 @@
     <MESSAGE value="Added solution for Filter the number" />
     <MESSAGE value="Added solution for Bumps in the Road" />
     <MESSAGE value="Added solution for Is integer safe to use" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Is integer safe to use" />
+    <MESSAGE value="Added solution for Square Every Digit" />
+    <MESSAGE value="Added solution for Find the next perfect square" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Find the next perfect square" />
   </component>
   <component name="WindowStateProjectService">
     <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1605060062423">
