@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="073724a3-db45-42a4-9fc1-ea47bc5dfa84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7 kyu/You're a square!.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu/The highest profit wins!.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,42 +54,7 @@
       <workItem from="1604424838826" duration="336000" />
       <workItem from="1604450535958" duration="4473000" />
       <workItem from="1605056934022" duration="3346000" />
-      <workItem from="1605233873028" duration="300000" />
-    </task>
-    <task id="LOCAL-00017" summary="add solution for Beginner - Lost Without a Map">
-      <created>1604458672594</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1604458672594</updated>
-    </task>
-    <task id="LOCAL-00018" summary="add solution for Invert values">
-      <created>1604458741379</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1604458741379</updated>
-    </task>
-    <task id="LOCAL-00019" summary="add solution for Fake Binary">
-      <created>1604458817983</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1604458817983</updated>
-    </task>
-    <task id="LOCAL-00020" summary="add solution for Remove String Spaces">
-      <created>1604458902074</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1604458902074</updated>
-    </task>
-    <task id="LOCAL-00021" summary="add solution for Jenny's secret message">
-      <created>1604458991885</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1604458991885</updated>
+      <workItem from="1605233873028" duration="604000" />
     </task>
     <task id="LOCAL-00022" summary="add solution for DNA to RNA Conversion">
       <created>1604459098210</created>
@@ -399,18 +364,48 @@
       <option name="project" value="LOCAL" />
       <updated>1605234134504</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Added solution for You're a square!">
+      <created>1605234210671</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1605234210671</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Added solution for Unique In Order">
+      <created>1605234273101</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1605234273101</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Added solution for All Star Code Challenge #22">
+      <created>1605234337068</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1605234337068</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Added solution for Formatting decimal places #1">
+      <created>1605234398689</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1605234398689</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Added solution for Tortoise racing">
+      <created>1605234455435</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1605234455435</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added solution for Days in the year" />
-    <MESSAGE value="Added solution for Triangular Treasure" />
-    <MESSAGE value="Added solution for Be Concise I - The Ternary Operator" />
-    <MESSAGE value="Added solution for 101 Dalmatians - squash the bugs, not the dogs!" />
-    <MESSAGE value="Added solution for The wheat or rice and chessboard problem" />
     <MESSAGE value="Added solution for Going to the cinema" />
     <MESSAGE value="Added solution for Power of two" />
     <MESSAGE value="Added solution for Difference Of Squares" />
@@ -431,7 +426,12 @@
     <MESSAGE value="Added solution for Is integer safe to use" />
     <MESSAGE value="Added solution for Square Every Digit" />
     <MESSAGE value="Added solution for Find the next perfect square" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Find the next perfect square" />
+    <MESSAGE value="Added solution for You're a square!" />
+    <MESSAGE value="Added solution for Unique In Order" />
+    <MESSAGE value="Added solution for All Star Code Challenge #22" />
+    <MESSAGE value="Added solution for Formatting decimal places #1" />
+    <MESSAGE value="Added solution for Tortoise racing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Tortoise racing" />
   </component>
   <component name="WindowStateProjectService">
     <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1605234336537">
