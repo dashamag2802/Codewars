@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="073724a3-db45-42a4-9fc1-ea47bc5dfa84" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu/The Office IV - Find a Meeting Room.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +56,7 @@
       <workItem from="1605056934022" duration="3346000" />
       <workItem from="1605233873028" duration="2673000" />
       <workItem from="1605283303350" duration="326000" />
-    </task>
-    <task id="LOCAL-00048" summary="Added solution for Difference Of Squares">
-      <created>1605058806511</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1605058806511</updated>
+      <workItem from="1605738621781" duration="334000" />
     </task>
     <task id="LOCAL-00049" summary="Added solution for Factorial">
       <created>1605058891837</created>
@@ -400,14 +394,20 @@
       <option name="project" value="LOCAL" />
       <updated>1605236488224</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="Added solution for Maximum Length Difference">
+      <created>1605738852212</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1605738852213</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added solution for Sum of Minimums!" />
     <MESSAGE value="Added solution for Find min and max" />
     <MESSAGE value="Added solution for Binary Addition" />
     <MESSAGE value="Added solution for Simple Fun 152 Invite More Women" />
@@ -432,7 +432,8 @@
     <MESSAGE value="Added solution for Training JS 33 methods of Math---max() min() and abs()" />
     <MESSAGE value="Added solution for Minimum to multiple" />
     <MESSAGE value="Added solution for Maximum Triplet Sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Maximum Triplet Sum" />
+    <MESSAGE value="Added solution for Maximum Length Difference" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Maximum Length Difference" />
   </component>
   <component name="WindowStateProjectService">
     <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1605236487673">
