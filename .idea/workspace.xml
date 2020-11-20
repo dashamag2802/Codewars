@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="073724a3-db45-42a4-9fc1-ea47bc5dfa84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7 kyu/Complete Series.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu/Santa's Naughty List.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,42 +57,7 @@
       <workItem from="1605233873028" duration="2673000" />
       <workItem from="1605283303350" duration="326000" />
       <workItem from="1605738621781" duration="982000" />
-      <workItem from="1605834201555" duration="978000" />
-    </task>
-    <task id="LOCAL-00059" summary="Added solution for ATM">
-      <created>1605059821626</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1605059821626</updated>
-    </task>
-    <task id="LOCAL-00060" summary="Added solution for isReallyNaN">
-      <created>1605059877580</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1605059877580</updated>
-    </task>
-    <task id="LOCAL-00061" summary="Added solution for Filter the number">
-      <created>1605059932220</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1605059932220</updated>
-    </task>
-    <task id="LOCAL-00062" summary="Added solution for Bumps in the Road">
-      <created>1605059991535</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1605059991535</updated>
-    </task>
-    <task id="LOCAL-00063" summary="Added solution for Is integer safe to use">
-      <created>1605060062967</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1605060062967</updated>
+      <workItem from="1605834201555" duration="1299000" />
     </task>
     <task id="LOCAL-00064" summary="Added solution for Square Every Digit">
       <created>1605234061627</created>
@@ -403,18 +367,48 @@
       <option name="project" value="LOCAL" />
       <updated>1605835175890</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="Added solution for Two Oldest Ages">
+      <created>1605835222846</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1605835222847</updated>
+    </task>
+    <task id="LOCAL-00109" summary="Added solution for Largest pair sum in array">
+      <created>1605835273001</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1605835273001</updated>
+    </task>
+    <task id="LOCAL-00110" summary="Added solution for Sum of two lowest positive integers">
+      <created>1605835324375</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1605835324375</updated>
+    </task>
+    <task id="LOCAL-00111" summary="Added solution for Minimize Sum Of Array (Array Series 1)">
+      <created>1605835398377</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1605835398377</updated>
+    </task>
+    <task id="LOCAL-00112" summary="Added solution for Minimum Steps (Array Series 6)">
+      <created>1605835468929</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1605835468929</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added solution for Sum of Odd Cubed Numbers" />
-    <MESSAGE value="Added solution for Number of People in the Bus" />
-    <MESSAGE value="Added solution for Remove the minimum" />
-    <MESSAGE value="Added solution for Backspaces in string" />
-    <MESSAGE value="Added solution for esreveR" />
     <MESSAGE value="Added solution for Find the middle element" />
     <MESSAGE value="Added solution for Sort Santa's Reindeer" />
     <MESSAGE value="Added solution for Sort array by string length" />
@@ -435,7 +429,12 @@
     <MESSAGE value="Added solution for Array element parity" />
     <MESSAGE value="Added solution for Two to One" />
     <MESSAGE value="Added solution for Complete Series" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Complete Series" />
+    <MESSAGE value="Added solution for Two Oldest Ages" />
+    <MESSAGE value="Added solution for Largest pair sum in array" />
+    <MESSAGE value="Added solution for Sum of two lowest positive integers" />
+    <MESSAGE value="Added solution for Minimize Sum Of Array (Array Series 1)" />
+    <MESSAGE value="Added solution for Minimum Steps (Array Series 6)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Minimum Steps (Array Series 6)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1605835397815">
