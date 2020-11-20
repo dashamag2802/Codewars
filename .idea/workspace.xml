@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="073724a3-db45-42a4-9fc1-ea47bc5dfa84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7 kyu/Are the numbers in order.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="073724a3-db45-42a4-9fc1-ea47bc5dfa84" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,21 +55,7 @@
       <workItem from="1605233873028" duration="2673000" />
       <workItem from="1605283303350" duration="326000" />
       <workItem from="1605738621781" duration="982000" />
-      <workItem from="1605834201555" duration="1654000" />
-    </task>
-    <task id="LOCAL-00067" summary="Added solution for Unique In Order">
-      <created>1605234273101</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1605234273101</updated>
-    </task>
-    <task id="LOCAL-00068" summary="Added solution for All Star Code Challenge #22">
-      <created>1605234337068</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1605234337068</updated>
+      <workItem from="1605834201555" duration="2154000" />
     </task>
     <task id="LOCAL-00069" summary="Added solution for Formatting decimal places #1">
       <created>1605234398689</created>
@@ -403,15 +386,27 @@
       <option name="project" value="LOCAL" />
       <updated>1605835760934</updated>
     </task>
-    <option name="localTasksCounter" value="116" />
+    <task id="LOCAL-00116" summary="Added solution for Are the numbers in order">
+      <created>1605835915350</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1605835915350</updated>
+    </task>
+    <task id="LOCAL-00117" summary="Added solution for Small enough - Beginner">
+      <created>1605836024633</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1605836024633</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added solution for Array Mash" />
-    <MESSAGE value="Added solution for max diff - easy" />
     <MESSAGE value="Added solution for Maximum Product" />
     <MESSAGE value="Added solution for Training JS 33 methods of Math---max() min() and abs()" />
     <MESSAGE value="Added solution for Minimum to multiple" />
@@ -435,13 +430,15 @@
     <MESSAGE value="Added solution for Santa's Naughty List" />
     <MESSAGE value="Added solution for Friend or Foe" />
     <MESSAGE value="Added solution for Ones and Zeros" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Ones and Zeros" />
+    <MESSAGE value="Added solution for Are the numbers in order" />
+    <MESSAGE value="Added solution for Small enough - Beginner" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Small enough - Beginner" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1605835626498">
+    <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1605836024098">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="251" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605835626498" />
+    <state x="251" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605836024098" />
     <state x="496" y="89" key="FileChooserDialogImpl" timestamp="1604032240800">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -458,10 +455,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="316" y="112" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1604086594417" />
-    <state x="261" y="79" key="Vcs.Push.Dialog.v2" timestamp="1605835628143">
+    <state x="261" y="79" key="Vcs.Push.Dialog.v2" timestamp="1605836025533">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="261" y="79" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605835628143" />
+    <state x="261" y="79" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605836025533" />
     <state x="536" y="304" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605059814235">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
