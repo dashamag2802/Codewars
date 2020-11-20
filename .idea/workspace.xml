@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="073724a3-db45-42a4-9fc1-ea47bc5dfa84" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu/Array element parity.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,14 +57,7 @@
       <workItem from="1605233873028" duration="2673000" />
       <workItem from="1605283303350" duration="326000" />
       <workItem from="1605738621781" duration="982000" />
-      <workItem from="1605834201555" duration="376000" />
-    </task>
-    <task id="LOCAL-00055" summary="Added solution for Draw stairs">
-      <created>1605059513033</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1605059513033</updated>
+      <workItem from="1605834201555" duration="677000" />
     </task>
     <task id="LOCAL-00056" summary="Added solution for Discover The Original Price">
       <created>1605059607595</created>
@@ -402,14 +395,20 @@
       <option name="project" value="LOCAL" />
       <updated>1605739574476</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="Added solution for Array.diff">
+      <created>1605834791019</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1605834791019</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added solution for Show multiples of 2 numbers within a range" />
     <MESSAGE value="Added solution for What is type of variable" />
     <MESSAGE value="Added solution for Is every value in the array an array" />
     <MESSAGE value="Added solution for Rock Off!" />
@@ -434,7 +433,8 @@
     <MESSAGE value="Added solution for filterEvenLengthWords" />
     <MESSAGE value="Added solution for Enumerable Magic 5 True for Just One" />
     <MESSAGE value="Added solution for Find the lucky numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Find the lucky numbers" />
+    <MESSAGE value="Added solution for Array.diff" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Array.diff" />
   </component>
   <component name="WindowStateProjectService">
     <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1605739573912">
