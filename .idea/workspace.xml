@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="073724a3-db45-42a4-9fc1-ea47bc5dfa84" name="Default Changelist" comment="" />
+    <list default="true" id="073724a3-db45-42a4-9fc1-ea47bc5dfa84" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/7 kyu/Peak array index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,42 +57,7 @@
       <workItem from="1605233873028" duration="2673000" />
       <workItem from="1605283303350" duration="326000" />
       <workItem from="1605738621781" duration="982000" />
-      <workItem from="1605834201555" duration="2457000" />
-    </task>
-    <task id="LOCAL-00072" summary="Added solution for Sum of Minimums!">
-      <created>1605234603931</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1605234603931</updated>
-    </task>
-    <task id="LOCAL-00073" summary="Added solution for Find min and max">
-      <created>1605234796262</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1605234796262</updated>
-    </task>
-    <task id="LOCAL-00074" summary="Added solution for Binary Addition">
-      <created>1605234892403</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1605234892404</updated>
-    </task>
-    <task id="LOCAL-00075" summary="Added solution for Simple Fun 152 Invite More Women">
-      <created>1605234976247</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1605234976248</updated>
-    </task>
-    <task id="LOCAL-00076" summary="Added solution for Divide and Conquer">
-      <created>1605235061475</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1605235061475</updated>
+      <workItem from="1605834201555" duration="2766000" />
     </task>
     <task id="LOCAL-00077" summary="Added solution for Find the divisors!">
       <created>1605235126475</created>
@@ -400,18 +367,48 @@
       <option name="project" value="LOCAL" />
       <updated>1605836654658</updated>
     </task>
-    <option name="localTasksCounter" value="121" />
+    <task id="LOCAL-00121" summary="Added solution for Calculate mean and concatenate string">
+      <created>1605836720379</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1605836720379</updated>
+    </task>
+    <task id="LOCAL-00122" summary="Added solution for Predict your age!">
+      <created>1605836763484</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1605836763484</updated>
+    </task>
+    <task id="LOCAL-00123" summary="Added solution for Predict your age">
+      <created>1605836795690</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1605836795690</updated>
+    </task>
+    <task id="LOCAL-00124" summary="Added solution for Convert an array of strings to array of numbers">
+      <created>1605836862359</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1605836862359</updated>
+    </task>
+    <task id="LOCAL-00125" summary="Added solution for Mirror, mirror, on the wall...">
+      <created>1605836926483</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1605836926483</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added solution for Maximum Triplet Sum" />
-    <MESSAGE value="Added solution for Maximum Length Difference" />
-    <MESSAGE value="Added solution for The Office IV - Find a Meeting Room" />
-    <MESSAGE value="Added solution for Get Planet Name By ID" />
-    <MESSAGE value="Added solution for JavaScript Array Filter" />
     <MESSAGE value="Added solution for filterEvenLengthWords" />
     <MESSAGE value="Added solution for Enumerable Magic 5 True for Just One" />
     <MESSAGE value="Added solution for Find the lucky numbers" />
@@ -432,13 +429,22 @@
     <MESSAGE value="Added solution for Array Leaders (Array Series 3)" />
     <MESSAGE value="Added solution for Train to remove duplicates from an array with filter()" />
     <MESSAGE value="Added solution for Dominant array elements" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Dominant array elements" />
+    <MESSAGE value="Added solution for Calculate mean and concatenate string" />
+    <MESSAGE value="Added solution for Predict your age!" />
+    <MESSAGE value="Added solution for Predict your age" />
+    <MESSAGE value="Added solution for Convert an array of strings to array of numbers" />
+    <MESSAGE value="Added solution for Mirror, mirror, on the wall..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Mirror, mirror, on the wall..." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1605836654124">
+    <state x="355" y="191" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605836680965">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="251" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605836654124" />
+    <state x="355" y="191" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1605836680965" />
+    <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1605836925943">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="251" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605836925943" />
     <state x="496" y="89" key="FileChooserDialogImpl" timestamp="1604032240800">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -455,10 +461,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="316" y="112" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1604086594417" />
-    <state x="261" y="79" key="Vcs.Push.Dialog.v2" timestamp="1605836655543">
+    <state x="261" y="79" key="Vcs.Push.Dialog.v2" timestamp="1605836927928">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="261" y="79" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605836655543" />
+    <state x="261" y="79" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605836927928" />
     <state x="536" y="304" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605059814235">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
