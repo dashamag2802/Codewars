@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="073724a3-db45-42a4-9fc1-ea47bc5dfa84" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu/Spacify.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +60,7 @@
       <workItem from="1605834201555" duration="3782000" />
       <workItem from="1606179972944" duration="421000" />
       <workItem from="1607139298793" duration="95000" />
-    </task>
-    <task id="LOCAL-00080" summary="Added solution for What is type of variable">
-      <created>1605235373102</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1605235373102</updated>
+      <workItem from="1607483041701" duration="300000" />
     </task>
     <task id="LOCAL-00081" summary="Added solution for Is every value in the array an array">
       <created>1605235532009</created>
@@ -404,14 +398,20 @@
       <option name="project" value="LOCAL" />
       <updated>1605840881038</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="Added solution for Number of Decimal Digits">
+      <created>1607483294454</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1607483294454</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added solution for Array.diff" />
     <MESSAGE value="Added solution for Array element parity" />
     <MESSAGE value="Added solution for Two to One" />
     <MESSAGE value="Added solution for Complete Series" />
@@ -436,7 +436,8 @@
     <MESSAGE value="Added solution for Peak array index" />
     <MESSAGE value="Added solution for The Skiponacci Sequence" />
     <MESSAGE value="Added solution for Numbers to Letters" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Numbers to Letters" />
+    <MESSAGE value="Added solution for Number of Decimal Digits" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Number of Decimal Digits" />
   </component>
   <component name="WindowStateProjectService">
     <state x="355" y="191" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605836680965">
